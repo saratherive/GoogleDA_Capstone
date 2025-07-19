@@ -55,8 +55,8 @@ annual members. In order to do that, however, the team needs to better understan
 annual members and casual riders differ, why casual riders would buy a membership, and how
 digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
-Ask
-Three questions will guide the future marketing program:
+
+## Ask Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
