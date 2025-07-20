@@ -3,7 +3,7 @@ As a Junior DA, help my team to understand how Casual and Annual Members use Div
 
 **Only Two datasets are provided 1 - 2019_Q1; 2 - 2020_Q1**
  - **2019_Q1**
-  - Metadata:
+    - Metadata:
       - TripID: Unique Identifier for each Trip.
       - BikeID: Unique Identifier for different bike types.
       - Start Date/Time: Date and start time of the ride.
