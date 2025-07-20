@@ -1,9 +1,9 @@
 # GoogleDA_Capstone
 As a Junior DA, help my team to understand how Casual and Annual Members use Divvy Bikes Differently
 
-**Only Two datasets are provided 
-1 - 2019_Q1; 
-2 - 2020_Q1**
+**Datasets provided are:** 
+**1 - 2019_Q1**
+**2 - 2020_Q1**
 
  - **2019_Q1**
     - Metadata:
