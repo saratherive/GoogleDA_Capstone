@@ -1,6 +1,20 @@
 # GoogleDA_Capstone
 As a Junior DA, help my team to understand how Casual and Annual Members use Divvy Bikes Differently
 
+**Only Two datasets are provided 1 - 2019_Q1; 2 - 2020_Q1**
+ - **2019_Q1**
+  - Metadata:
+      - TripID: Unique Identifier for each Trip.
+      - BikeID: Unique Identifier for different bike types.
+      - Start Date/Time: Date and start time of the ride.
+      - End Date/Time: Date and end time of the ride.
+      - Trip Duration: Given as numerical, deemed unnecessary. 
+      - From Station ID: Start Station Unique Identifier.
+      - To Station ID: End Station Unique Identifier.
+      - From Station Name: Start Station Name.
+      - To Station Name: End Station Name.
+      - Usertype: Customer- Annual paid members, Subscribers- Casual Riders.
+ - **2020_Q1**
 
 ## Introduction
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you work for a
@@ -62,3 +76,6 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 3. How can Cyclistic use digital media to influence casual riders to become members?
 Moreno has assigned you the first question to answer: How do annual members and casual
 riders use Cyclistic bikes differently?
+
+
+
